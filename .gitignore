@@ -1,0 +1,31 @@
+# Maven build
+target/
+# Forgetting the build directory
+null/
+# Allure
+.allure
+allure-report
+allure-results
+logs
+*.log
+# Ant build
+bin/
+# General / Misc
+tmp/
+*.bak
+*~.nib
+*.pyc
+*.swp
+.idea/
+*.iml
+*.ipr
+*.iws
+.orig
+*/*/*.iml
+.gradle
+.java-version
+*nbproject*
+# IntelliJ specific
+.idea
+# Mac Specific
+*DS_Store*
